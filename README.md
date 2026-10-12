@@ -42,3 +42,7 @@ Instructions for the agent...
 ```
 
 The `name` must match the folder name (lowercase, hyphen-separated).
+
+## License
+
+[MIT](LICENSE)
